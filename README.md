@@ -44,7 +44,7 @@ This report provides valuable insights into pizza sales performance and offers a
 
 --- 
 
-This report is published on PowerBi service at https://app.powerbi.com/view?r=eyJrIjoiMGZjNjkyMjgtOWUzYy00ODIzLWI2ODItZTU3ZjFhOGFkOTJiIiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9, where stakeholders can access the Power BI dashboard and collaborate on further analysis and decision-making. 
+This report is published on PowerBi service at [here](https://app.powerbi.com/view?r=eyJrIjoiMGZjNjkyMjgtOWUzYy00ODIzLWI2ODItZTU3ZjFhOGFkOTJiIiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9), where stakeholders can access the Power BI dashboard and collaborate on further analysis and decision-making. 
 
 Feel free to reach out with any questions or feedback. 
 
