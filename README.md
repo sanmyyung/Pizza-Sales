@@ -5,7 +5,7 @@ This report presents an analysis of pizza sales data using Power BI. The dashboa
 
 ### Dashboard Overview
 
-![][https://github.com/sanmyyung/Pizza-Sales/commit/4c92c761ce60106786f57ef4cee16e434f5eacf4]
+![](https://github.com/sanmyyung/Pizza-Sales/blob/main/Pizza%20sales.JPG)
 
 The dashboard consists of two main pages: 
 1. **Sales Overview**: Displays KPIs, sales trends, and sales distribution by category and size.
