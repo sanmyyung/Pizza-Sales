@@ -4,6 +4,9 @@
 This report presents an analysis of pizza sales data using Power BI. The dashboard provides insights into key performance indicators (KPIs), sales trends, and top/bottom selling pizzas. The purpose is to help stakeholders understand sales patterns, identify best and worst-performing items, and make data-driven decisions.
 
 ### Dashboard Overview
+
+![][https://github.com/sanmyyung/Pizza-Sales/commit/4c92c761ce60106786f57ef4cee16e434f5eacf4]
+
 The dashboard consists of two main pages: 
 1. **Sales Overview**: Displays KPIs, sales trends, and sales distribution by category and size.
 2. **Best/Worst Sellers**: Identifies the top and bottom selling pizzas based on revenue, quantity, and total orders.
